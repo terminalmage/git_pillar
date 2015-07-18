@@ -1,1 +1,2 @@
 mygitpillar: foo
+secondgitpillar: bar
