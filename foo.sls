@@ -1,4 +1,4 @@
-mygitpillar: foo
-secondgitpillar: bar
-thirdgitpillar: baz
+mygitpillar: abc
+secondgitpillar: def
+thirdgitpillar: ghi
 stackedpillar: {{ salt['pillar.get']('parentpillar', 'not set') }}
