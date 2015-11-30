@@ -1,4 +1,3 @@
-# Add comment
 mygitpillar: abc
 secondgitpillar: def
 thirdgitpillar: ghi
