@@ -1,5 +1,4 @@
 # Add comment
-mygitpillar: abc
-secondgitpillar: def
-thirdgitpillar: ghi
-stackedpillar: {{ salt['pillar.get']('parentpillar', 'not set') }}
+foo_pillar1: abc
+foo_pillar2: def
+foo_pillar3: ghi
