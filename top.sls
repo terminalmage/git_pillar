@@ -1,3 +1,3 @@
-alt:
+base:
   '*':
     - foo
