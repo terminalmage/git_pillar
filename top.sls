@@ -1,3 +1,4 @@
+# comment
 base:
   '*':
     - foo
