@@ -1,4 +1,4 @@
 # comment
-base:
+{{env}}:
   '*':
     - foo
