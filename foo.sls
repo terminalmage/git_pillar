@@ -1,4 +1,1 @@
-mygitpillar: foo
-secondgitpillar: bar
-thirdgitpillar: baz
-fourthgitpillar: qux
+foo: ext

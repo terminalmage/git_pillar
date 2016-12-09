@@ -1,4 +1,3 @@
-# comment
-{{env}}:
+base:
   '*':
     - foo
