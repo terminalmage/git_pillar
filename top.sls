@@ -1,3 +1,3 @@
-base:
+dev:
   '*':
     - foo
