@@ -1,3 +1,3 @@
-dev:
+{{ saltenv }}:
   '*':
     - foo
