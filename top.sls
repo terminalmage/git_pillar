@@ -1,5 +1,5 @@
 base:
-  'test':
-    - host
   'G@kernel:Linux':
     - linux
+  'test':
+    - host
