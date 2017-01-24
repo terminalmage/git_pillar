@@ -1,7 +1,7 @@
 git_pillar:
   purged:
     container:
-      - mdadm
+      - not_mdadm
       - sosreport
       - parted
       - lvm2
