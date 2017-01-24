@@ -1,5 +1,5 @@
 base:
-  'G@kernel:Linux':
-    - linux
   '*':
     - host
+  'G@kernel:Linux':
+    - linux
