@@ -1,1 +1,1 @@
-foo: ext
+foo: True
