@@ -1,3 +1,3 @@
 {{ saltenv }}:
   '*':
-    - mounted.foo
+    - mounted.deeper.foo
