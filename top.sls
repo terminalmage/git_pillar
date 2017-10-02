@@ -1,3 +1,3 @@
 base:
   '*':
-    - foo
+    - foo.bar.baz.linked
