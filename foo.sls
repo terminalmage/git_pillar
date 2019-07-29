@@ -1,1 +1,2 @@
-foo: ext
+{% set type = 'ext' %}
+foo: {{ type }}
