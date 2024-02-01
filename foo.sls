@@ -1,4 +1,4 @@
 {% set type = 'ext' %}
 foo: {{ type }}
 
-hello: world
+hello: 'world!'
