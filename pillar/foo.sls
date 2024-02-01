@@ -3,4 +3,4 @@ foo: {{ type }}
 
 hello: world
 
-onetwothree: 456
+pour: quoi
